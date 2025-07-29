@@ -1,1 +1,3 @@
 # Airline-Reservation-System
+
+The Airline Reservation System to be Database driven with MySQL Workbench. Its goal is to simplify and automate the process of making arrangements for air travel. This project focuses on building a relational database to manage the core functionalities of an airline reservation system. It includes designing normalized tables as well for flights, customers, seats, bookings, implementing constraints and triggers for the integrity check for the data. Queries are used to retrieve for flight availability, booking summary, or any such dynamic information. The resulting system is designed in user friendly manner to be as close to real airline operations as possible.
